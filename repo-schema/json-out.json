@@ -1,0 +1,78 @@
+[
+    {
+        "name": "rose guano cave",
+        "Users": [
+            {
+                "person": "jason williams",
+                "interaction_date": "2016-08-01T00:00:00",
+                "interaction_type": "creates"
+            },
+            {
+                "person": "tim herrick",
+                "interaction_date": "2017-08-01T00:00:00",
+                "interaction_type": "edits"
+            },
+            {
+                "person": "bonnie weller",
+                "interaction_date": "2016-01-01T00:00:00",
+                "interaction_type": "uses"
+            }
+        ],
+        "Fields": [
+            {
+                "name": "ndow_id",
+                "type": "text",
+                "description": "Internal reference number for all captured animals"
+            },
+            {
+                "name": "date",
+                "type": "date",
+                "description": "Date of observation or event"
+            },
+            {
+                "name": "species",
+                "type": "text",
+                "description": "Species observed, captured, or encounterd"
+            },
+            {
+                "name": "sex",
+                "type": "text",
+                "description": "The sex/gender of the animal. Required, however unknown values are acceptable."
+            }
+        ],
+        "description": "data for bats captured at rose guano cave"
+    },
+    {
+        "name": "gila monsters",
+        "Users": [
+            {
+                "person": "jason jones",
+                "interaction_date": "2015-01-01T00:00:00",
+                "interaction_type": "creates"
+            }
+        ],
+        "Fields": [
+            {
+                "name": "ndow_id",
+                "type": "text",
+                "description": "Internal reference number for all captured animals"
+            },
+            {
+                "name": "date",
+                "type": "date",
+                "description": "Date of observation or event"
+            },
+            {
+                "name": "species",
+                "type": "text",
+                "description": "Species observed, captured, or encounterd"
+            },
+            {
+                "name": "sex",
+                "type": "text",
+                "description": "The sex/gender of the animal. Required, however unknown values are acceptable."
+            }
+        ],
+        "description": "data for gila monsters radio transmitters"
+    }
+]
