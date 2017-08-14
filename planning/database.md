@@ -22,4 +22,4 @@ These tables are required to resolve the many-to-many relationships that will oc
 
 ### Schematically 
 
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/cc084745-c040-4646-9d3c-5e12e85548f5" id="FabnC.u7I136"></iframe></div>
+![schematic](https://www.lucidchart.com/publicSegments/view/5791bcbf-6fb0-41da-9235-be5426c0a134/image.png)
