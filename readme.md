@@ -57,6 +57,7 @@ Some tools that will help get us up and running for development.
 I'll use this portion of this file as a little playground to get you started using git and GitHub, and markdown. Below add your name and goals for this project.
 
 1. Mitch. Data discovery and democratization tool [a la AirBnB](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770)
+2. Tim. Data creation and population.
 
 Some hints:
 
